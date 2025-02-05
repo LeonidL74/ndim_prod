@@ -1,10 +1,7 @@
 # ndim_prod
 Product of multi-dimensional matrixes on Matlab
 
-Any number of dimensions, 
-Any number of common-static indexes,
-Any number of common-summarizing indexes,
-Any number of individael indexes
+Any number of dimensions, of common-static indexes, of common-summarizing indexes, of individual indexes may be used.
 
 Example
 
